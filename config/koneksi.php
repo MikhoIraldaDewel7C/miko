@@ -1,8 +1,8 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
 $server = "localhost";
-$username = "smpnkahi_skrip";
-$password = "~M)OFD$aV{-.";
+$username = "smpnkahi_user";
+$password = "1208mikodewel"
 $database = "smpnkahi_skrip";
 
 $koneksi = mysqli_connect($server,$username,$password,$database); 
