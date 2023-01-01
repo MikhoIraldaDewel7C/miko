@@ -1,7 +1,7 @@
 <?php
 $server = "localhost";
 $username = "smpnkahi_skrip";
-$password = "12081998bcchandra";
+$password = "~M)OFD$aV{-.";
 $database = "smpnkahi_skrip";
 
 $koneksi2 = mysqli_connect($server, $username, $password, $database);
